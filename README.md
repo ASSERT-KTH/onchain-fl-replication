@@ -1,8 +1,8 @@
 # Flash Loans on Ethereum — Thesis Data and Queries
 
-Supporting material for the master's thesis *"History of Flash Loans: A Data-Driven
-Analysis of Legitimate Usage and Attack Patterns"* (Oscar Reina Gustafsson, KTH Royal
-Institute of Technology).
+Supporting material for the master's thesis *"Flash Loan Usage Classification based on
+Ethereum Transaction Traces"* (Oscar Reina Gustafsson, KTH Royal Institute of
+Technology).
 
 This repository holds the SQL queries, hand-curated ground truth, and incident-collection
 scripts behind the results reported in the thesis. It is a **reference artifact**: it
