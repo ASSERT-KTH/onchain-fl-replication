@@ -1,0 +1,13 @@
+provider,slug,defillama_category,tvl_eth_usd,fl_events,fl_share_pct,literature
+Morpho Blue,morpho-blue,Lending,3283994946,1101067,46.66,RQ1 rank 1
+Balancer V2,balancer-v2,Dexs,20674115,837970,35.51,Torres et al.
+Aave V3 Core,aave-v3,Lending,9384732855,162351,6.88,"Torres, Qin, Cao"
+Curve crvUSD,crvusd,CDP,51213056,60012,2.54,none
+Aave V2,aave-v2,Lending,82608213,48121,2.04,Wang et al.
+Spark Lend,spark,uncategorised,4357973551,39089,1.66,none
+Sky / MakerDAO,makerdao,CDP,5275645235,29116,1.23,Mandin
+Aave V1,aave-v1,Lending,5674027,24050,1.02,"Qin, Cao"
+BendDAO,benddao,uncategorised,369569,36637,1.55,none
+Uniswap V3,uniswap-v3,Dexs,806884948,,,Wang et al.
+Uniswap V2,uniswap-v2,Dexs,578871956,,,"Wang, Cao"
+dYdX,dydx,uncategorised,37303662,,,"Wang, Qin, Cao"

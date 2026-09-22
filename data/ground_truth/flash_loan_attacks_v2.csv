@@ -1,0 +1,68 @@
+date,protocol,loss_usd,technique,tx_hash,block_number,tx_hash_source,sources,source_url,dhl_source_file,has_flashloan_event
+2026-01-20,Makinafi,4200000,Flashloan Price Oracle Attack,0x569733b8016ef9418f0b6bde8c14224d9e759e79301499908ecbcd956a0651f5,,manual_lookup,"DeFiLlama,SlowMist Hacked",https://x.com/PeckShieldAlert/status/2013468943193645085,,yes
+2025-04-27,Aventa,,,0x59446b1f58457c83d18864bbfaa8930c9438da33017ad41f08397cf79a8c63e5,,manual_lookup,SlowMist Hacked,https://x.com/SlowMist_Team/status/1916405508833218995,,no
+2024-07-15,Minterest,,,,,not_ethereum,SlowMist Hacked,https://x.com/Minterest/status/1812540672248820033,,n/a
+2024-02-24,ZoomerCoin,,,,,not_found,SlowMist Hacked,https://twitter.com/SlowMist_Team/status/1761067998633136243,,unknown
+2023-11-11,Raft Protocol,,,0xfeedbf51b4e2338e38171f6e19501327294ab1907ab44cfd2d7e7336c975ace7,,manual_lookup,SlowMist Hacked,https://twitter.com/raft_fi/status/1723057566664548623,,yes
+2023-11-07,MEV Bot,,,0xbc08860cd0a08289c41033bdc84b2bb2b0c54a51ceae59620ed9904384287a38,,manual_lookup,SlowMist Hacked,https://twitter.com/SlowMist_Team/status/1722081647028478029,,yes
+2023-10-08,pSeudoEth,,,0x4ab68b21799828a57ea99c1288036889b39bf85785240576e697ebff524b3930,,etherscan_url,SlowMist Hacked,https://etherscan.io/tx/0x4ab68b21799828a57ea99c1288036889b39bf85785240576e697ebff524b3930,,yes
+2023-10-05,DePay,,,0x9a036058afb58169bfa91a826f5fcf4c0a376e650960669361d61bef99205f35,,manual_lookup,SlowMist Hacked,https://etherscan.io/address/0xae60ac8e69414c2dc362d0e6a03af643d1d85b92,,no
+2023-09-12,OxODexPool,,,,,not_found,SlowMist Hacked,https://twitter.com/Cointime_CN/status/1701420147616145422,,unknown
+2023-08-22,Balancer,,,0x7020e0ccafff2c86db3df5a2af0cccb4e931fe948f69bf20ea517b0cc99c1f15,,manual_lookup,SlowMist Hacked,https://twitter.com/balancer/status/1694014645378724280,,yes
+2023-07-22,Conic Finance,300000,Flashloan Price Oracle Attack,0x37acd17a80a5f95728459bfea85cb2e1f64b4c75cf4a4c8dcb61964e26860882,,manual_lookup,"DeFiLlama,SlowMist Hacked",https://twitter.com/ConicFinance/status/1682524319518269440,,yes
+2023-05-31,Sashimi Swap,,,,,not_ethereum,SlowMist Hacked,https://twitter.com/ArkhamIntel/status/1664210608865042435,,n/a
+2023-05-10,FLOKI,,,0x118b7b7c11f9e9bd630ea84ef267b183b34021b667f4a3061f048207d266437a,,etherscan_url,SlowMist Hacked,https://etherscan.io/tx/0x118b7b7c11f9e9bd630ea84ef267b183b34021b667f4a3061f048207d266437a,,yes
+2023-05-09,MChainCapital,,,0xf72f1d10fc6923f87279ce6c0aef46e372c6652a696f280b0465a301a92f2e26,,manual_lookup,SlowMist Hacked,https://twitter.com/NumenAlert/status/1655851512445403138,,yes
+2023-03-21,Indexed Finance,,,,,not_found,SlowMist Hacked,https://twitter.com/AnciliaInc/status/1637925297327865856,,unknown
+2023-03-13,Euler Finance,197000000,Flashloan Donate Function Logic Exploit,0xc310a0affe2169d1f6feec1c63dbc7f7c62a887fa48795d327d4d2da2d6b111d,,manual_lookup,"DeFiLlama,SlowMist Hacked",https://twitter.com/SlowMist_Team/status/1635288963580825606,,yes
+2023-02-24,Earning.farm,,,0x1fe5a53405d00ce2f3e15b214c7486c69cbc5bf165cf9596e86f797f62e81914,,etherscan_url,SlowMist Hacked,https://etherscan.io/tx/0x1fe5a53405d00ce2f3e15b214c7486c69cbc5bf165cf9596e86f797f62e81914,,no
+2022-10-15,Earning.Farm,,,0x160c5950a01b88953648ba90ec0a29b0c5383e055d35a7835d905c53a3dda01e,,manual_lookup,SlowMist Hacked,https://twitter.com/SupremacyHQ/status/1581012823701786624,,yes
+2022-10-12,ATK,,,,,not_ethereum,SlowMist Hacked,https://www.panewslab.com/zh/sqarticledetails/q1qgvsgc.html,,n/a
+2022-06-16,Inverse Finance,5800000,Flashloan Price Oracle Attack,0x958236266991bc3fe3b77feaacea120f172c0708ad01c7a715b255f218f9313c,,manual_lookup,"DeFiHackLabs,DeFiLlama,SlowMist Hacked",https://www.panewslab.com/zh/articledetails/m20ffpy4.html,,yes
+2022-05-17,FEG,,,0xc0031514e222bf2f9f1a57a4af652494f08ec6e401b6ae5b4761d3b41e266a59,,manual_lookup,SlowMist Hacked,https://twitter.com/CertiKAlert/status/1526357878503768070,,yes
+2022-04-30,Saddle Finance,11000000,Flashloan Swap Logic Exploit,0x2b023d65485c4bb68d781960c2196588d03b871dc9eb1c054f596b7ca6f7da56,,manual_lookup,"DeFiLlama,SlowMist Hacked",https://twitter.com/saddlefinance/status/1520451021725741056,,no
+2022-04-17,Beanstalk,181000000,Flashloan Governance Attack,0x68cdec0ac76454c3b0f7af0b8a3895db00adf6daaf3b50a99716858c4fa54c6f,,defihacklabs_exact,"DeFiHackLabs,DeFiLlama,SlowMist Hacked",https://twitter.com/BlockSecTeam/status/1515683983836979201,src/test/2022-04/Beanstalk_exp.sol,no
+2022-03-15,Deus Finance,,,,,not_ethereum,SlowMist Hacked,https://twitter.com/peckshield/status/1503632734299701250,,n/a
+2021-11-28,Visor Finance,,,0x6e5be7b85df2913ba8e807de9350d69969134d3f73391e620db267a9d0f8f461,,manual_lookup,SlowMist Hacked,https://twitter.com/GammaStrategies/status/1464702295153774594,,no
+2021-11-21,Formation.Fi,,,,,not_found,SlowMist Hacked,https://formation-fi.medium.com/greetings-formation-fi-community-supporters-investors-and-friends-b09d673cda8a,,unknown
+2021-10-27,Cream Finance,130000000,Flashloan Price Oracle Attack,0x0fe2542079644e107cbf13690eb9c2c65963ccb79089ff96bfaf8dced2331c92,,manual_lookup,"DeFiLlama,SlowMist Hacked",https://medium.com/cream-finance/post-mortem-exploit-oct-27-507b12bb6f8e,,yes
+2021-08-31,Cream Finance,18800000,Flashloan Reentrancy Attack,0xd7ec3046ec75efbd04b3eea8752a8a6373a92c0dd813d08b655661054d3239c5,,manual_lookup,"DeFiLlama,SlowMist Hacked",https://medium.com/cream-finance/c-r-e-a-m-finance-post-mortem-amp-exploit-6ceb20a630c5,,no
+2021-08-29,xToken,4500000,Flashloan Price Oracle Attack,0x924e6a6288587b497f73ddcf6ae3c184f15ab35dfcb85f3074b55266974029ef,,manual_lookup,"DeFiLlama,SlowMist Hacked",https://medium.com/xtoken/xsnx-post-mortem-666d35071f38,,no
+2021-07-19,Array Finance,,,0xa17bbc7c9ab17aa88fdb5de83b41de982845e9c9c072efff6709dd29febf0daa,,manual_lookup,SlowMist Hacked,https://blocksecteam.medium.com/the-analysis-of-the-array-finance-security-incident-bcab555326c1,,yes
+2021-02-27,Yeld.finance,,,,,not_found,SlowMist Hacked,https://twitter.com/YeldF/status/1365623299552772096,,unknown
+2021-02-09,BT.Finance,,,0xc71cea6fa00d11e98f6733ee8740f239cb37b11dec29e7cf85d7a4077977fa65,,manual_lookup,SlowMist Hacked,https://twitter.com/btdotfinance/status/1358989066814033920,,no
+2021-02-05,YFI,,,,,not_found,SlowMist Hacked,https://twitter.com/iearnfinance/status/1357451290561937408,,unknown
+2020-12-18,Warp Finance,7800000,Flashloan Price Oracle Attack,0x8bb8dc5c7c830bac85fa48acad2505e9300a91c3ff239c9517d0cae33b595090,,manual_lookup,"DeFiLlama,SlowMist Hacked",https://warpfinance.medium.com/warp-finance-exploit-summary-recovery-of-funds-5b8fe4a11898,,no
+2020-11-14,Value DeFi,7000000,Flashloan Price Oracle Attack,0x46a03488247425f845e444b9c10b52ba3c14927c687d38287c0faddc7471150a,,manual_lookup,"DeFiLlama,SlowMist Hacked",https://decrypt.co/48256/saddest-hack-in-crypto-value-defi-hacked-for-6-million,,yes
+2020-11-13,Cheese Bank,3300000,Flashloan Price Oracle Attack,0x600a869aa3a259158310a233b815ff67ca41eab8961a49918c2031297a02f1cc,,manual_lookup,"DeFiLlama,SlowMist Hacked",https://cointelegraph.com/news/cheese-bank-s-multi-million-dollar-hack-explained-by-security-firm,,no
+2020-10-26,Harvest Finance,25000000,Flashloan Price Oracle Attack,0x35f8d2f572fceaac9288e5d462117850ef2694786992a8c3f6d02612277b0877,,manual_lookup,"DeFiHackLabs,DeFiLlama,SlowMist Hacked",https://www.zdnet.com/article/hacker-steals-24-million-from-cryptocurrency-service-harvest-finance/,,no
+2020-09-29,Eminence,15000000,Flashloan Price Oracle Attack,0x3503253131644dd9f52802d071de74e456570374d586ddd640159cf6fb9b8ad8,,manual_lookup,"DeFiLlama,SlowMist Hacked",https://www.coindesk.com/tech/2020/10/01/defi-degens-hit-hard-by-eminence-exploit-will-be-partially-compensated/,,no
+2020-06-30,Balancer,,,0x013be97768b702fe8eccef1a40544d5ecb3c1961ad5f87fee4d16fdc08c78106,,manual_lookup,SlowMist Hacked,https://twitter.com/frenzy_hao/status/1277597671847411712,,no
+2026-02-28,Wise Lending V2,66000,Flashloan Exploit,,,not_found,DeFiLlama,N/A,,unknown
+2025-12-16,FutureSwap,270000,Flashloan Governance Attack,0x23c6a1e3fa409fcf17b4a6c385924a17546772ce77b314d001cbf0dab9469ba3,,manual_lookup,DeFiLlama,https://x.com/tenarmoralert/status/2001116475424133536,,no
+2024-06-13,UwU Lend,3700000,Flashloan Price Oracle Attack,0x9235e0662e230bdfa94f56f4932fd09a95fea17e4b9b44a4f40a59449e216110,,manual_lookup,DeFiLlama,https://x.com/TheBlock__/status/1801177660946612664,,yes
+2024-04-19,Hedgey,44700000,Claim Contract Flashloan Exploit,0xa17fdb804728f226fcd10e78eae5247abd984e0f03301312315b89cae25aa517,,manual_lookup,DeFiLlama,https://twitter.com/hedgeyfinance/status/1781257581488418862,,yes
+2024-03-28,PrismaLST,11600000,Flashloan Trove Manipulation,0x00c503b595946bccaea3d58025b5f9b3726177bbdc9674e634244135282116c7,,manual_lookup,DeFiLlama,https://twitter.com/PeckShieldAlert/status/1773345454832378109,,yes
+2024-02-24,BlueBerry,1400000,Flashloan Price Oracle Attack,0xf0464b01d962f714eee9d4392b2494524d0e10ce3eb3723873afd1346b8b06e4,,manual_lookup,DeFiLlama,https://x.com/blueberryFDN/status/1760872935982879030,,yes
+2023-11-22,KyberSwap Elastic,48000000,Flashloan Swap Logic Exploit,0x485e08dc2b6a4b3aeadcb89c3d18a37666dc7d9424961a2091d6b3696792f0f3,,manual_lookup,DeFiLlama,https://twitter.com/KyberNetwork/status/1727475235342217682,,yes
+2023-11-01,Onyx Protocol,2100000,Flashloan Donate Function Logic Exploit,0xf7c21600452939a81b599017ee24ee0dfd92aaaccd0a55d02819a7658a6ef635,,manual_lookup,DeFiLlama,https://twitter.com/decurityhq/status/1719657969925677161,,yes
+2023-08-02,Uwerx,327000,Flashloan Pool Shares Exploit,0x3b19e152943f31fe0830b67315ddc89be9a066dc89174256e17bc8c2d35b5af8,,manual_lookup,DeFiLlama,https://twitter.com/CertiKAlert/status/1686667720920625152,,yes
+2023-07-10,Arcadia V1,460000,Flashloan Reentrancy Attack,0xefc4ac015069fdf9946997be0459db44c0491221159220be782454c32ec2d651,,manual_lookup,DeFiLlama,https://arcadiafinance.medium.com/post-mortem-72e9d24a79b0,,yes
+2023-06-12,Sturdy V1,770000,Flashloan Reentrancy Attack,0xeb87ebc0a18aca7d2a9ffcabf61aa69c9e8d3c6efade9e2303f8857717fb9eb7,,manual_lookup,DeFiLlama,https://twitter.com/blocksecteam/status/1668084629654638592,,yes
+2023-04-13,Yearn Finance,11539000,Flashloan Misconfiguration Exploit,0xd55e43c1602b28d4fd4667ee445d570c8f298f5401cf04e62ec329759ecda95d,,manual_lookup,DeFiLlama,https://twitter.com/osec_io/status/1646411672175939585?s=20,,yes
+2023-01-11,Roe Finance,80000,Flashloan Pool Shares Exploit,0x927b784148b60d5233e57287671cdf67d38e3e69e5b6d0ecacc7c1aeaa98985b,,manual_lookup,DeFiLlama,https://twitter.com/spreekaway/status/1613205435762495488,,yes
+2022-05-01,Rari Capital,80000000,Flashloan Reentrancy Attack,0xadbe5cf9269a001d50990d0c29075b402bcc3a0b0f3258821881621b787b35c6,,manual_lookup,DeFiLlama,https://twitter.com/Hacxyk/status/1520370421773725698?s=20&t=3ZdC2UMcxHaD73SwrcnudQ,,yes
+2021-10-14,Indexed Finance,16000000,Flashloan Price Oracle Attack,0x44aad3b853866468161735496a5d9cc961ce5aa872924c5d78673076b1cd95aa,,manual_lookup,DeFiLlama,https://ndxfi.medium.com/indexed-attack-post-mortem-b006094f0bdc,,no
+2021-08-03,Popsicle Finance,20000000,Flashloan Incentive Rewards Exploit,0xcd7dae143a4c0223349c16237ce4cd7696b1638d116a72755231ede872ab70fc,,manual_lookup,DeFiLlama,https://twitter.com/Mudit__Gupta/status/1422797923037814786?s=20&t=bZ-0VnJ8b4SQbx5PkaOGYg,,yes
+2021-05-12,xToken,24000000,Flashloan Price Oracle Attack,0x7cc7d935d895980cdd905b2a134597fb91004b5d551d6db0fb265e3d9840da22,,manual_lookup,DeFiLlama,https://twitter.com/FrankResearcher/status/1392515198674681863?s=20,,no
+2021-02-13,Alpha Finance,37500000,Flashloan Pool Shares Exploit,0xcc57ac77dc3953de7832162ea4cd925970e064ead3f6861ee40076aca8e7e571,,manual_lookup,DeFiLlama,https://blog.alphaventuredao.io/alpha-homora-v2-post-mortem/,,no
+2021-02-09,Growth DeFi,1300000,Flashloan Price Oracle Attack,0xffef18b38096c96c1f6be784ea0ebb07964137858e38f3d65858a79e6a96797f,,manual_lookup,DeFiLlama,https://rekt.news/the-big-combo/,,no
+2021-02-05,Yearn Finance,11000000,Flashloan Price Oracle Attack,,,not_found,DeFiLlama,https://rekt.news/yearn-rekt/,,unknown
+2020-11-17,Origin Protocol,8000000,Flashloan Reentrancy Attack,0x5b23e13e0689a389859b3ea009cd7432689d027e0991a9c1a1a7fae7bf2b87fd,,manual_lookup,DeFiLlama,https://rekt.news/hack-epidemic/,,no
+2020-11-12,Akropolis,2000000,Flashloan Reentrancy Attack,0xf15623567231c67df2b8bcc5540236fbda2c3ac11ecbec427048f11b582cb869,,manual_lookup,DeFiLlama,https://rekt.news/akropolis-rekt/,,no
+2020-02-18,Ooki,650000,Flashloan Price Oracle Attack,0x762881b07feb63c436dee38edd4ff1f7a74c33091e534af56c9f7d49b5ecac15,,manual_lookup,DeFiLlama,https://twitter.com/bneiluj/status/1228757175595438080?s=20&t=rHc453VaZzUqbci29H6YDA,,no
+2021-03-08,DODO,700000.0,Flash Loan Attack,0x395675b56370a9f5fe8b32badfa80043f5291443bd6c8273900476880fb5221e,,manual_lookup,DeFiHackLabs,,,non_standard
+2022-06-26,XCarnival,3870000.0,Flash Loan Attack,0x422e7b0a449deba30bfe922b5c34282efbdbf860205ff04b14fd8129c5b91433,,defihacklabs_exact,DeFiHackLabs,,src/test/2022-06/XCarnival_exp.sol,no
+2022-03-17,ApeCoin (APE),1100000.0,Flash Loan Attack,0xeb8c3bebed11e2e4fcd30cbfc2fb3c55c4ca166003c7f7d319e78eaab9747098,,defihacklabs_exact,DeFiHackLabs,,src/test/2022-05/Bayc_apecoin_exp.sol,no
+2023-03-17,ParaSpace NFT,,Flash Loan Attack,0xe3f0d14cfb6076cabdc9057001c3fafe28767a192e88005bc37bd7d385a1116a,,defihacklabs_exact,DeFiHackLabs,,src/test/2023-03/paraspace_exp.sol,yes
+2024-08-16,OMPx Contract,4.37,Flash Loan Attack,0xd927843e30c6b2bf43103d83bca6abead648eac3cad0d05b1b0eb84cd87de9b6,,defihacklabs_exact,DeFiHackLabs,,src/test/2024-08/OMPxContract_exp.sol,yes

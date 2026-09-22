@@ -1,0 +1,11 @@
+slug,name,category,parent,tvl_eth,tvl_all,offset_days
+aave-v3,Aave V3,Lending,aave,9384732855,11630760830,0.0
+makerdao,Sky Lending,CDP,maker,5275645235,5275645235,0.0
+spark,Spark,,,4357973550.71484,4513506090.89562,0.0
+morpho-blue,Morpho Blue,Lending,morpho,3283994946,6587093406,0.0
+uniswap-v3,Uniswap V3,Dexs,uniswap,806884948,1387606118,0.0
+uniswap-v2,Uniswap V2,Dexs,uniswap,578871956,696007088,0.0
+aave-v2,Aave V2,Lending,aave,82608213,102085383,0.0
+dydx,dYdX,,,37303662,131199446,0.0
+balancer-v2,Balancer V2,Dexs,balancer,20674115,26245061,0.0
+aave-v1,Aave V1,Lending,aave,5674027,5674027,0.0

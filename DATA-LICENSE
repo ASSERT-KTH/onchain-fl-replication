@@ -1,0 +1,61 @@
+# Data licensing
+
+This repository mixes original work with data derived from third-party platforms.
+The MIT license in `LICENSE` covers only the former. This file states what applies
+to each data file.
+
+## MIT licensed (original work)
+
+The following were assembled and verified by hand from Etherscan, protocol
+documentation, and published incident post-mortems. They are original work and fall
+under `LICENSE`:
+
+- `data/ground_truth/anchor_contracts.csv`
+- `data/ground_truth/function_signatures.csv`
+- `data/ground_truth/flash_loan_attacks_v2.csv`
+- `data/ground_truth/lookup_results.csv`
+
+The underlying facts — contract addresses, function selectors, transaction hashes —
+are public Ethereum state and are not owned by anyone. What is licensed here is the
+selection, verification, and annotation.
+
+## Derived from Allium — not MIT licensed
+
+The following are outputs of queries run against [Allium](https://www.allium.so)
+Explorer and are subject to Allium's Terms of Service, which state that Allium
+retains all right, title, and interest in Output derived from use of the Service:
+
+- `data/batch_results_v3.csv`
+- `data/rq1_audit_2026-07-01.csv`
+- `data/rq4_volume_vs_ethereum.csv`
+- `data/rq3_benign_sample_stratified.csv`
+
+These are included here as the aggregate results reported in the thesis, so that
+the reported figures can be checked. They are not offered for redistribution or
+reuse. Anyone wanting to build on this data should obtain their own Allium access
+and re-run the queries in `sql/`, which are MIT licensed and free to use.
+
+Note that access to Allium under an academic plan is restricted to research and
+teaching use, with commercial use prohibited.
+
+## Derived from DeFiLlama — not MIT licensed
+
+The following are snapshots of DeFiLlama data and are subject to DeFiLlama's terms:
+
+- `data/ground_truth/defillama_flashloan_attacks.csv` (hacks listing)
+- `data/defillama/tvl_2026_07_01.csv`
+- `data/defillama/provider_market_structure_2026_07_01.csv`
+- `data/defillama/top5_per_category_2026_07_01.csv`
+
+See `data/defillama/README.md` for how and when these were retrieved.
+
+## Third-party sources referenced by the collection scripts
+
+`src/extraction/` fetches from SlowMist Hacked, the DeFiLlama API, and DeFiHackLabs.
+Each remains subject to its own terms. The scripts are MIT licensed; the data they
+retrieve is not covered by this repository's license.
+
+## If you are unsure
+
+The queries and code are free to use. For the data files, prefer re-deriving them
+from the sources above rather than reusing the copies here.

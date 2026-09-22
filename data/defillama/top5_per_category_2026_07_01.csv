@@ -1,0 +1,21 @@
+category,category_rank,name,slug,parent,tvl_ethereum_usd,series_date_unix,offset_days
+Lending,1,Aave V3,aave-v3,parent#aave,9384732855,1782864000,0.0
+Lending,2,SparkLend,sparklend,parent#spark,3340852790,1782864000,0.0
+Lending,3,Morpho Blue,morpho-blue,parent#morpho,3283994946,1782864000,0.0
+Lending,4,Maple,maple,parent#maple-finance,2448878428,1782864000,0.0
+Lending,5,Compound V3,compound-v3,parent#compound-finance,932508337,1782864000,0.0
+Dexs,1,Curve DEX,curve-dex,parent#curve-finance,1134054943,1782864000,0.0
+Dexs,2,Uniswap V3,uniswap-v3,parent#uniswap,806884948,1782864000,0.0
+Dexs,3,Uniswap V4,uniswap-v4,parent#uniswap,593403453,1782864000,0.0
+Dexs,4,Uniswap V2,uniswap-v2,parent#uniswap,578871956,1782864000,0.0
+Dexs,5,Fluid DEX,fluid-dex,parent#fluid,122757747,1782864000,0.0
+Derivatives,1,dYdX V3,dydx-v3,parent#dydx,37303662,1782864000,0.0
+Derivatives,2,Apex Omni,apex-omni,parent#apex-protocol,20268461,1782864000,0.0
+Derivatives,3,Aevo Perps,aevo-perps,parent#aevo,12514685,1782864000,0.0
+Derivatives,4,Derive V2,derive-v2,parent#lyra,11095901,1782864000,0.0
+Derivatives,5,Hakka Finance,hakka-finance,,3436787,1782864000,0.0
+CDP,1,Sky Lending,sky-lending,parent#maker,5275645235,1782864000,0.0
+CDP,2,Liquity V1,liquity-v1,parent#liquity,115990925,1782864000,0.0
+CDP,3,USDD,usdd,,88166553,1782864000,0.0
+CDP,4,Frankencoin,frankencoin,,66963542,1782864000,0.0
+CDP,5,Liquity V2,liquity-v2,parent#liquity,66493237,1782864000,0.0
